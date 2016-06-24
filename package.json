@@ -1,0 +1,22 @@
+{
+  "name": "1606tesselhackteam2",
+  "version": "1.0.0",
+  "description": "Is There Milk?",
+  "main": "camera.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bjw2119/1606tesselhackTeam2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjw2119/1606tesselhackTeam2/issues"
+  },
+  "homepage": "https://github.com/bjw2119/1606tesselhackTeam2#readme",
+  "dependencies": {
+    "tessel-av": "^0.7.0"
+  }
+}
