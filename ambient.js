@@ -1,7 +1,6 @@
 
 var tessel = require('tessel');
-var ambientlib = require('../'); // Replace '../' with 'ambient-attx4' in your own code
-
+var ambientlib = require('ambient-attx4');
 var ambient = ambientlib.use(tessel.port['A']);
 
 ambient.on('ready', function () {
